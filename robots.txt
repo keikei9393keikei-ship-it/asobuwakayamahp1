@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://keikei9393keikei-ship-it.github.io/asobuwakayamahp1/sitemap.xml
